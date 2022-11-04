@@ -6,21 +6,38 @@ Modelo SEM placa de video Nvidia
 Lembrem de sempre gerar um numero de série diferente antes de realizar login na conta da Apple.
 
 
+
+
 Funcionando
 
+
+
 HDMI
+
 Intel® HD Graphics 5500
+
 Wi-Fi
+
 Bluetooth
+
 Mousepad
+
 Teclado
+
 USb 2.0 e 3.0
+
 iMessage, Facetime
+
 Repouso
+
 Reinicialização
+
 Cooler Automatico
+
 Brilho da Tela
+
 Teclas de Função
+
 Bateria
 
 
